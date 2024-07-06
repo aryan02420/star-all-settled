@@ -76,12 +76,6 @@ Supercharge your promises with parallel, sequential, pooled, and batched resolut
       </picture>
     </td>
   </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
 </table>
 
 
